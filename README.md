@@ -1,5 +1,9 @@
 :octocat: **Deborah Beatriz** 💻
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/deborahbpc/)
+
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deborahbeatriz/) 
 [![Gmail Badge](https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com)](mailto:deborah.bpc@gmail.com)
