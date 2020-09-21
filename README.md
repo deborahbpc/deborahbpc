@@ -1,8 +1,7 @@
 # :octocat: **Deborah Beatriz** 💻
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/deborahbpc/)
-
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/deborahbpc/)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deborahbeatriz/) 
