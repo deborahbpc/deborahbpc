@@ -13,6 +13,10 @@
 - 📚 Studied at ***Le Wagon Coding Bootcamp***
 - ⚡ Always trying to learn something new
 - 🔊 PT-BR / EN
+
+
+
+
 <!--
 **deborahbpc/deborahbpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
