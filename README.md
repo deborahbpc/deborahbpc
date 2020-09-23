@@ -8,17 +8,19 @@
     <tr>
     <td width ="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DXbOVU4mpMJjh)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
     </td>
     <td width="50%">
-        - ⚖️ I used to be a lawyer
-        - ✈️ I'm a traveler in my free time and I love getting to know other cultures
-        - 🤖 Full-Stack Developer
-        - 📚 Bookworm
-        - ⚡Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***
-        - 🌱 Always trying to learn something new (currently studying React)
-        - 🔛 Trying to contribute to Open Source projects
-        - 🔊 PT-BR / EN
+        <ul>
+            <li>⚖️ I used to be a lawyer</li>
+            <li>✈️ I'm a traveler in my free time and I love getting to know other cultures</li>
+            <li>🤖 Full-Stack Developer</li>
+            <li>📚 Bookworm</li>
+            <li>⚡Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***</li>
+            <li>🌱 Always trying to learn something new (currently studying React)</li>
+            <li>🔛 Trying to contribute to Open Source projects</li>
+            <li>🔊 PT-BR / EN</li>
+        </ul>
     </td>
 </table>
 
