@@ -8,7 +8,7 @@
 - 🤖 Full-Stack Developer
 - 📚 Bookworm
 - ⚡Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***
-- 🆕 Always trying to learn something new (currently studying React)
+- 🌱 Always trying to learn something new (currently studying React)
 - 🔛 Trying to contribute to Open Source projects
 - 🔊 PT-BR / EN
 
