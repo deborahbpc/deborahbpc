@@ -48,10 +48,16 @@
 <br/>
 <hr>
 <!--  GitHub Stats -->
-<img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border" />
+<img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
 <br />
 
 <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" /> 
+
+<hr>
+#### Some projects I've worked on while on Le Wagon:
+[![Ollivia Card](https://github-readme-stats.vercel.app/api/pin/?username=deborahbpc&repo=github-readme-stats)](https://github.com/rozasmarina/Olivia)
+[![Handmazing Card](https://github-readme-stats.vercel.app/api/pin/?username=deborahbpc&repo=github-readme-stats)](https://github.com/rozasmarina/mkt-place)
+
 
 
 [instagram1]: https://www.instagram.com/deborah_bpc/
