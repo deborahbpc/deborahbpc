@@ -48,17 +48,17 @@
 <br/>
 <hr>
 <!--  GitHub Stats -->
-<img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
+<img align="center" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
 <br />
 
-<img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" /> 
+<img align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" /> 
 
 <br/>
 <br/>
 <hr>
 #### Some projects I've worked on while on Le Wagon:\
-[![Ollivia Card](https://github-readme-stats.vercel.app/api/pin/?username=deborahbpc&repo=github-readme-stats)](https://github.com/rozasmarina/Olivia)
-[![Handmazing Card](https://github-readme-stats.vercel.app/api/pin/?username=deborahbpc&repo=github-readme-stats)](https://github.com/rozasmarina/mkt-place)
+[![Ollivia Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia)](https://github.com/rozasmarina/Olivia)
+[![Handmazing Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=mkt-place)](https://github.com/rozasmarina/mkt-place)
 
 
 
