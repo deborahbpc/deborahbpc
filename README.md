@@ -7,11 +7,11 @@
 <table width="100%">
     <tr>
     <td width ="50%">
-    <p style="align:center;">Hit play 🎶 </p>
+    <p>Hit play 🎶 </p>
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
     </td>
-    <td width="50%" style="vertical-align : middle;">
+    <td width="50%">
         <ul>
             <li>⚖️ I used to be a lawyer</li>
             <li>✈️ I'm a traveler in my free time and I love getting to know other cultures</li>
