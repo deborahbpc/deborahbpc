@@ -37,11 +37,12 @@
 [<img align="left" alt="cloudinary" width="30px" src="https://res.cloudinary.com/demo/image/upload/cloudinary_icon.png" />][cloudinary]
 [<img align="left" alt="Yarn" width="30px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png" />][yarn]
 [<img align="left" alt="NPM" width="30px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />][npm]
-[<img align="left" alt="jQuery" width="30px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" />][jquery]
+[<img align="left" alt="jQuery" width="30px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" />][jquery]\
+<br/>
 <br/>
 <hr>
 <!--  GitHub Stats -->
-<img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&show_icons=true" />
+<img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc?count_private=true&show_icons=true" />
 <br />
 
 <img align="left" alt="" src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8" /> 
