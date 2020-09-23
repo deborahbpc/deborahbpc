@@ -53,8 +53,10 @@
 
 <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" /> 
 
+<br/>
+<br/>
 <hr>
-#### Some projects I've worked on while on Le Wagon:
+#### Some projects I've worked on while on Le Wagon:\
 [![Ollivia Card](https://github-readme-stats.vercel.app/api/pin/?username=deborahbpc&repo=github-readme-stats)](https://github.com/rozasmarina/Olivia)
 [![Handmazing Card](https://github-readme-stats.vercel.app/api/pin/?username=deborahbpc&repo=github-readme-stats)](https://github.com/rozasmarina/mkt-place)
 
