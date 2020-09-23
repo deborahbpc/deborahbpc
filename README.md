@@ -50,7 +50,7 @@
 <img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
 <br />
 
-<img align="left" alt="" src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8" /> 
+<img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8" /> 
 
 
 [instagram1]: https://www.instagram.com/deborah_bpc/
