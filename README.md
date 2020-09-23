@@ -64,6 +64,7 @@
 
 </details>
 <br/>
+<br/>
 <hr>
 
 #### Some projects I've worked on while on Le Wagon:
