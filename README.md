@@ -16,7 +16,8 @@
 - 🆕 Always trying to learn something new (currently studying React)
 - 🔛 Trying to contribute to Open Source projects
 - 🔊 PT-BR / EN
-<a href="#"><img src="https://media.giphy.com/media/cQ23bDqzbWbh240xQq/giphy.gif" width="50px"></a>
+<br />
+<a href="#"><img src="https://media.giphy.com/media/cQ23bDqzbWbh240xQq/giphy.gif"></a>
 
 <hr>
 
