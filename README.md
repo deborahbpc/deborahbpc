@@ -33,17 +33,16 @@
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Heroku" width="30px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" />][heroku]
-
-
+\
 [<img align="left" alt="cloudinary" width="30px" src="https://res.cloudinary.com/demo/image/upload/cloudinary_icon.png" />][cloudinary]
 [<img align="left" alt="Yarn" width="30px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png" />][yarn]
 [<img align="left" alt="NPM" width="30px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />][npm]
 [<img align="left" alt="jQuery" width="30px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" />][jquery]
+\
 <hr>
-<br />
+\
 <!--  GitHub Stats -->
-
-<img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc" />
+<img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&show_icons=true" />
 <br />
 
 <img align="left" alt="" src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8" /> 
