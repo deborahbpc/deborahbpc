@@ -13,13 +13,21 @@
     </td>
     <td width="50%">
         <ul>
+            <br/>
             <li>⚖️ I used to be a lawyer</li>
+            <br/>
             <li>✈️ I'm a traveler in my free time and I love getting to know other cultures</li>
+            <br/>
             <li>🤖 Full-Stack Developer</li>
+            <br/>
             <li>📚 Bookworm</li>
+            <br/>
             <li>⚡Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***</li>
+            <br/>
             <li>🌱 Always trying to learn something new (currently studying React)</li>
+            <br/>
             <li>🔛 Trying to contribute to Open Source projects</li>
+            <br/>
             <li>🔊 PT-BR / EN</li>
         </ul>
     </td>
