@@ -60,7 +60,6 @@
 #### Some projects I've worked on while on Le Wagon:
 
 [![Ollivia Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia)](https://github.com/rozasmarina/Olivia)
-
 [![Handmazing Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=mkt-place)](https://github.com/rozasmarina/mkt-place)
 
 
