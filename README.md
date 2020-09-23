@@ -8,10 +8,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com)](mailto:deborah.bpc@gmail.com)
 
 - ⚖️ I used to be a lawyer
-- ✈️ I'm a traveler in my free time and I love getting to know new cultures
-- 💻 Ruby on Rails
+- ✈️ I'm a traveler in my free time and I love getting to know other cultures
 - 🤖 Full-Stack Developer
-- 📚 Studied at ***Le Wagon Coding Bootcamp***
+- 📚 Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***
 - ⚡ Always trying to learn something new (currently studying React)
 - 🔛 Trying to contribute to Open Source projects
 - 🔊 PT-BR / EN
