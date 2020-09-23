@@ -1,12 +1,10 @@
 # :octocat: **Deborah Beatriz** 💻
 ### Hello there! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deborahbeatriz/) 
+[![Gmail Badge](https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com)](mailto:deborah.bpc@gmail.com)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/deborahbpc/)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/deborahbpc/)
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deborahbeatriz/) 
-[![Gmail Badge](https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com)](mailto:deborah.bpc@gmail.com)
 
 - ⚖️ I used to be a lawyer
 - ✈️ I'm a traveler in my free time and I love getting to know other cultures
@@ -16,9 +14,6 @@
 - 🆕 Always trying to learn something new (currently studying React)
 - 🔛 Trying to contribute to Open Source projects
 - 🔊 PT-BR / EN
-<br />
-<!-- <a href="#"><img src="https://media.giphy.com/media/jtWmzGO3ID6dtjeMQZ/giphy.gif" width="100px"></a> -->
-
 <hr>
 
 ### Languages and Tools:
@@ -45,9 +40,9 @@
 [<img align="left" alt="Yarn" width="30px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png" />][yarn]
 [<img align="left" alt="NPM" width="30px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />][npm]
 [<img align="left" alt="jQuery" width="30px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" />][jquery]
-
+---
 <!--  GitHub Stats -->
-<img align="left" alt="" src="https://github-readme-stats.deborahbpc.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&hide_border=true" />
+<img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.deborahbpc.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true" />
 <img align="left" alt="" src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8" />
 
 
@@ -74,7 +69,8 @@
 [jquery]: https://jquery.com/
 
 
-
+<!-- <br /> -->
+<!-- <a href="#"><img src="https://media.giphy.com/media/jtWmzGO3ID6dtjeMQZ/giphy.gif" width="100px"></a> -->
 
 <!--
 **deborahbpc/deborahbpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
