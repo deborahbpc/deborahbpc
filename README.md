@@ -42,6 +42,7 @@
 [<img align="left" alt="jQuery" width="30px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" />][jquery]
 ---
 <!--  GitHub Stats -->
+[![Deborah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deborahbpc)](https://github.com/deborahbpc/github-readme-stats)
 <img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.deborahbpc.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true" />
 <img align="left" alt="" src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8" />
 
