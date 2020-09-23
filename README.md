@@ -51,8 +51,6 @@
 <img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
 <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" />
 <br/>
-<br/>
-<br/>
 <hr>
 
 <details>
@@ -66,7 +64,6 @@
 
 </details>
 
-<br/>
 <br/>
 <hr>
 
