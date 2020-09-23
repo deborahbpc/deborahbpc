@@ -11,6 +11,13 @@
 - 🆕 Always trying to learn something new (currently studying React)
 - 🔛 Trying to contribute to Open Source projects
 - 🔊 PT-BR / EN
+
+### You can also find me at: 
+<!-- [<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+<!-- [<img align="left" alt="Deborah's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+<!-- [<img align="left" alt="deborahbeatriz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[<img align="left" alt="deborahbpc | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram1]
+[<img align="left" alt="ummundosemfim | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
 <hr>
 
 ### Languages and Tools:
@@ -46,6 +53,8 @@
 <img align="left" alt="" src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8" /> 
 
 
+[instagram1]: https://www.instagram.com/deborah_bpc/
+[instagram2]: https://www.instagram.com/ummundosemfim/
 [vscode]: https://code.visualstudio.com/
 [ruby]: https://ruby-doc.org/
 [rails]: https://rubyonrails.org/
