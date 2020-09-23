@@ -56,6 +56,9 @@
   <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#125](https://github.com//rozasmarina/mkt-place/pull/125) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
+2. 🎉 Merged PR [#220](https://github.com//rozasmarina/Olivia/pull/220) in [rozasmarina/Olivia](https://github.com//rozasmarina/Olivia)
+3. 🎉 Merged PR [#218](https://github.com//rozasmarina/Olivia/pull/218) in [rozasmarina/Olivia](https://github.com//rozasmarina/Olivia)
 <!--END_SECTION:activity-->
 
 </details>
