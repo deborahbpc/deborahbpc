@@ -42,7 +42,6 @@
 <hr>
 <br />
 <!--  GitHub Stats -->
-[![Deborah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deborahbpc)](https://github.com/deborahbpc/github-readme-stats)
 
 <img align="left" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc" />
 <br />
