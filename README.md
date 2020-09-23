@@ -1,5 +1,5 @@
-# :octocat: **Deborah Beatriz** 💻
-
+## :octocat: **Deborah Beatriz** 💻
+<hr>
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/deborahbpc/)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/deborahbpc/)
 
