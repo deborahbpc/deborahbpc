@@ -52,10 +52,13 @@
 <img align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" /> 
 <br/>
 
-### :zap: Recent Activity
+<details>
+  <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</details>
 <br/>
 <hr>
 
