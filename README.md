@@ -11,10 +11,13 @@
 - ⚖️ I used to be a lawyer
 - ✈️ I'm a traveler in my free time and I love getting to know other cultures
 - 🤖 Full-Stack Developer
-- 📚 Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***
-- ⚡ Always trying to learn something new (currently studying React)
+- 📚 Bookworm
+- ⚡Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***
+- 🆕 Always trying to learn something new (currently studying React)
 - 🔛 Trying to contribute to Open Source projects
 - 🔊 PT-BR / EN
+<a href="#"><img src="https://media.giphy.com/media/cQ23bDqzbWbh240xQq/giphy.gif" width="50px"></a>
+
 <hr>
 
 ### Languages and Tools:
