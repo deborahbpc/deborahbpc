@@ -3,14 +3,25 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/deborahbpc/)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/deborahbpc/)
 ### Hello there! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-- ⚖️ I used to be a lawyer
-- ✈️ I'm a traveler in my free time and I love getting to know other cultures
-- 🤖 Full-Stack Developer
-- 📚 Bookworm
-- ⚡Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***
-- 🌱 Always trying to learn something new (currently studying React)
-- 🔛 Trying to contribute to Open Source projects
-- 🔊 PT-BR / EN
+
+<table width="100%">
+    <tr>
+    <td width ="50%">
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DXbOVU4mpMJjh)
+    </td>
+    <td width="50%">
+        - ⚖️ I used to be a lawyer
+        - ✈️ I'm a traveler in my free time and I love getting to know other cultures
+        - 🤖 Full-Stack Developer
+        - 📚 Bookworm
+        - ⚡Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***
+        - 🌱 Always trying to learn something new (currently studying React)
+        - 🔛 Trying to contribute to Open Source projects
+        - 🔊 PT-BR / EN
+    </td>
+</table>
+
 
 ### You can also find me at: 
 <!-- [<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -50,7 +61,6 @@
 <!--  GitHub Stats -->
 <img align="center" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
 <img align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" />
-<br/>
 <hr>
 
 #### Some projects I've worked on while on Le Wagon:
