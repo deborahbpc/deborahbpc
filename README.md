@@ -7,7 +7,7 @@
 <table width="100%">
     <tr>
     <td width ="50%">
-    <p style="text-align: center;">Hit play 🎶 </p>
+    <p align="center">Hit play 🎶 </p>
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
     </td>
