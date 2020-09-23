@@ -7,10 +7,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deborahbeatriz/) 
 [![Gmail Badge](https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com)](mailto:deborah.bpc@gmail.com)
 
-- :hammer: I used to be a lawyer
-- :airplane: I'm a traveler in my free time and I love getting to know new cultures
+- ⚖️ I used to be a lawyer
+- ✈️ I'm a traveler in my free time and I love getting to know new cultures
 - 💻 Ruby on Rails
-- 👾 Full-Stack Developer
+- 🤖 Full-Stack Developer
 - 📚 Studied at ***Le Wagon Coding Bootcamp***
 - ⚡ Always trying to learn something new (currently studying React)
 - 🔛 Trying to contribute to Open Source projects
