@@ -17,7 +17,7 @@
 - 🔛 Trying to contribute to Open Source projects
 - 🔊 PT-BR / EN
 <br />
-<a href="#"><img src="https://media.giphy.com/media/cQ23bDqzbWbh240xQq/giphy.gif"></a>
+<!-- <a href="#"><img src="https://media.giphy.com/media/jtWmzGO3ID6dtjeMQZ/giphy.gif" width="100px"></a> -->
 
 <hr>
 
@@ -45,6 +45,10 @@
 [<img align="left" alt="Yarn" width="30px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png" />][yarn]
 [<img align="left" alt="NPM" width="30px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />][npm]
 [<img align="left" alt="jQuery" width="30px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" />][jquery]
+
+<!--  GitHub Stats -->
+<img align="left" alt="" src="https://github-readme-stats.deborahbpc.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&hide_border=true" />
+<img align="left" alt="" src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8" />
 
 
 [vscode]: https://code.visualstudio.com/
