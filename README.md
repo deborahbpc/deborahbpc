@@ -91,13 +91,13 @@
 </p>
 <hr>
 
-<p>
-    <a href="https://github.com/rozasmarina/Olivia"><img alt="Ollivia Card" src="https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia&theme=buefy" /></a> <a href="https://github.com/rozasmarina/mkt-place"><img alt="Handmazing Card" src="https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=mkt-place&theme=buefy" /></a>
+<!--<p>
+    <a href="https://github.com/rozasmarina/Olivia"><img alt="Ollivia Card" src="https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia&theme=buefy" /></a> <a href="https://github.com/rozasmarina/mkt-place"><img alt="Handmazing Card" src="https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=mkt-place&theme=buefy" /></a> -->
     
-</p>
+<!--</p>-->
 
 
-<hr>
+
 <details>
   <summary>:zap: Recent Activity</summary>
 
