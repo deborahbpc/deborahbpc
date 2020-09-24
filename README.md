@@ -78,7 +78,7 @@
 </p>
 <hr>
 
-#### Some projects I've worked on while on Le Wagon:
+<h4 align="center">Some projects I've worked on while on Le Wagon: </h4>
 
 [![Ollivia Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia&theme=buefy)](https://github.com/rozasmarina/Olivia)
 [![Handmazing Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=mkt-place&theme=buefy)](https://github.com/rozasmarina/mkt-place)
