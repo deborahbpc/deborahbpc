@@ -1,5 +1,5 @@
 <h1 align="center"> :octocat: Hi there, I'm <strong>Deborah Beatriz</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h2 align="center">A passionate developer from Brazil</h2>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/deborahbeatriz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a></span>
