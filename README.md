@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/deborahbeatriz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-    <a href="https://mailhide.io/e/oJtDG"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Reveal-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
+    <a href="https://mailhide.io/e/oJtDG"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Email%20reveal-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
     <img alt="Visits" src="https://badges.pufler.dev/visits/deborahbpc/deborahbpc?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square" />
     <a href="https://www.instagram.com/deborah_bpc/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/deborah_bpc-e95950.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="https://www.instagram.com/ummundosemfim/"><img alt="Instagram Badge 2" src="https://img.shields.io/badge/ummundosemfim-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
@@ -149,7 +149,10 @@
 <!-- [<img align="left" alt="deborahbpc | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram1]
 [<img align="left" alt="ummundosemfim | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
 <br /> 
-<img alt="Visits" src="https://komarev.com/ghpvc/?username=sathyabhat&color=blue" />-->
+<img alt="Visits" src="https://komarev.com/ghpvc/?username=sathyabhat&color=blue" /> -->
+<!--[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)-->
+<!--[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)-->
+<!--[![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)-->
 <!-- <hr> -->
 
 <!-- <br /> -->
@@ -157,7 +160,6 @@
 
 <!--
 **deborahbpc/deborahbpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
