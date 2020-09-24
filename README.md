@@ -1,8 +1,11 @@
 <h1 align="center"> :octocat: Hi there, I'm <strong>Deborah Beatriz</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center">A passionate developer from Brasil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deborahbeatriz/) 
-[![Gmail Badge](https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com)](mailto:deborah.bpc@gmail.com)
+<p align="center">
+    <a href="https://www.linkedin.com/in/deborahbeatriz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)" /></a></span>
+    <a href="mailto:deborah.bpc@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com" /></a></span>
+<span align="center">
+</p>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/deborahbpc/)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/deborahbpc/)
