@@ -4,10 +4,13 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/deborahbeatriz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a></span>
     <a href="mailto:deborah.bpc@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com" /></a>
-    <a href="https://www.instagram.com/deborah_bpc/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/deborah.bpc-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.instagram.com/ummundosemfim/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/ummundosemfim-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
     <img alt="Gmail Badge" src="https://komarev.com/ghpvc/?username=sathyabhat&color=blue" />
 </p>
+
+<p align="center">
+    <a href="https://www.instagram.com/deborah_bpc/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/deborah.bpc-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/ummundosemfim/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/ummundosemfim-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
+<p>
 
 <p align="center">
     <img alt="Built with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
