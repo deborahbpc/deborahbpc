@@ -84,12 +84,19 @@
     <a href="https://github.com/deborahbpc/Code-challenges"><img alt="Code challenges" src="https://github-readme-stats.vercel.app/api/pin/?username=deborahbpc&repo=Code-challenges&theme=dark" /></a> 
 </p>
 
-<hr>
 <h4 align="center">Some projects I've worked on while on Le Wagon: </h4>
 
-[![Ollivia Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia&theme=buefy)](https://github.com/rozasmarina/Olivia)
-[![Handmazing Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=mkt-place&theme=buefy)](https://github.com/rozasmarina/mkt-place)
-<br/>
+<p align="center">
+    <a href="https://github.com/rozasmarina/Olivia"><img alt="Ollivia Card" src="https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia&theme=buefy" /></a> <a href="https://github.com/rozasmarina/mkt-place"><img alt="Handmazing Card" src="https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=mkt-place&theme=buefy" /></a>
+</p>
+<hr>
+
+<p>
+    <a href="https://github.com/rozasmarina/Olivia"><img alt="Ollivia Card" src="https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia&theme=buefy" /></a> <a href="https://github.com/rozasmarina/mkt-place"><img alt="Handmazing Card" src="https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=mkt-place&theme=buefy" /></a>
+    
+</p>
+
+
 <hr>
 <details>
   <summary>:zap: Recent Activity</summary>
@@ -188,3 +195,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--
+[![Ollivia Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia&theme=buefy)](https://github.com/rozasmarina/Olivia)
+[![Handmazing Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=mkt-place&theme=buefy)](https://github.com/rozasmarina/mkt-place)
+ -->
