@@ -77,6 +77,7 @@
     <img alt="Deborah's GitHub most used languages" src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" />
 </p>
 <hr>
+<!-- add code challenges card -->
 
 <h4 align="center">Some projects I've worked on while on Le Wagon: </h4>
 
