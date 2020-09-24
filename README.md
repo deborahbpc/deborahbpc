@@ -2,8 +2,10 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/deborahbeatriz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)" /></a></span>
+    <a href="https://www.linkedin.com/in/deborahbeatriz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a></span>
     <a href="mailto:deborah.bpc@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com" /></a>
+    <a href="https://www.instagram.com/deborah_bpc/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/deborah.bpc-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/ummundosemfim/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/ummundosemfim-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <img alt="Gmail Badge" src="https://komarev.com/ghpvc/?username=sathyabhat&color=blue" />
 </p>
 
@@ -35,14 +37,7 @@
 </table>
 
 
-### You can also find me at: 
-<!-- [<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="Deborah's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="deborahbeatriz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-[<img align="left" alt="deborahbpc | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram1]
-[<img align="left" alt="ummundosemfim | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
-<br />
-<hr>
+
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
@@ -94,9 +89,6 @@
 
 </details>
 
-
-[instagram1]: https://www.instagram.com/deborah_bpc/
-[instagram2]: https://www.instagram.com/ummundosemfim/
 [vscode]: https://code.visualstudio.com/
 [ruby]: https://ruby-doc.org/
 [rails]: https://rubyonrails.org/
@@ -119,6 +111,15 @@
 [npm]: https://www.npmjs.com/
 [jquery]: https://jquery.com/
 
+
+<!-- ### You can also find me at:  -->
+<!-- [<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+<!-- [<img align="left" alt="Deborah's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+<!-- [<img align="left" alt="deborahbeatriz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+<!-- [<img align="left" alt="deborahbpc | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram1]
+[<img align="left" alt="ummundosemfim | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
+<br /> -->
+<!-- <hr> -->
 
 <!-- <br /> -->
 <!-- <a href="#"><img src="https://media.giphy.com/media/jtWmzGO3ID6dtjeMQZ/giphy.gif" width="100px"></a> -->
