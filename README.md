@@ -13,7 +13,7 @@
 <table width="100%">
     <tr>
     <td width ="50%">
-        <p align="center"><strong>Hit play</strong> 🎶 </p>
+        <p align="center"><strong>Chill out and go listen to some music</strong> 🎶 </p>
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
     </td>
