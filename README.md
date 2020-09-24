@@ -6,7 +6,7 @@
     <a href="mailto:deborah.bpc@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com" /></a>
     <img alt="Gmail Badge" src="https://komarev.com/ghpvc/?username=sathyabhat&color=blue" />
     <a href="https://www.instagram.com/deborah_bpc/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/deborah.bpc-e95950.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.instagram.com/ummundosemfim/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/ummundosemfim-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/ummundosemfim/"><img alt="Instagram Badge 2" src="https://img.shields.io/badge/ummundosemfim-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
