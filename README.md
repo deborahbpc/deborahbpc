@@ -1,4 +1,4 @@
-<h1 align="center"> :octocat: Hello World, I'm <strong>Deborah</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px" /> Hello World, I'm <strong>Deborah</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
 <p align="center">
