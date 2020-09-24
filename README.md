@@ -1,8 +1,10 @@
-# :octocat: **Deborah Beatriz**   [![Linkedin Badge](https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deborahbeatriz/) [![Gmail Badge](https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com)](mailto:deborah.bpc@gmail.com)
+<h1 align="center"> :octocat: Hi there, I'm <strong>Deborah Beatriz</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deborahbeatriz/) 
+[![Gmail Badge](https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com)](mailto:deborah.bpc@gmail.com)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/deborahbpc/)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/deborahbpc/)
-### Hello there! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <table width="100%">
     <tr>
