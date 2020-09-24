@@ -87,8 +87,8 @@
   <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com//rozasmarina/mkt-place/pull/126) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
-2. 🎉 Merged PR [#220](https://github.com//rozasmarina/Olivia/pull/220) in [rozasmarina/Olivia](https://github.com//rozasmarina/Olivia)
+1. 🗣 Commented on [#23](https://github.com//anmol098/waka-readme-stats/issues/23) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+2. 💪 Opened PR [#126](https://github.com//rozasmarina/mkt-place/pull/126) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
 3. 🎉 Merged PR [#218](https://github.com//rozasmarina/Olivia/pull/218) in [rozasmarina/Olivia](https://github.com//rozasmarina/Olivia)
 <!--END_SECTION:activity-->
 
