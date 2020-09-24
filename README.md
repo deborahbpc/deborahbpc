@@ -24,7 +24,7 @@
     <td width ="50%">
         <p align="center"><strong>Chill out and go listen to some music</strong> 🎶 </p>
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
+&nbsp; <br> [![Spotify](https://novatorem.deborahbpc.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
     </td>
     <td width="50%">
         <ul>
