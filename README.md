@@ -45,29 +45,29 @@
 
 
 ### Languages and Tools:
-<p align="center">
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-    <a href="https://ruby-doc.org/"><img alt="Ruby" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></a>
-    <a href="https://rubyonrails.org/"><img alt="Ruby on Rails" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></a>
-    <a href="https://www.python.org/"><img alt="Python" width="30px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" /></a>
-    <a href="https://www.jetbrains.com/pt-br/pycharm/"><img alt="PyCharm" width="30px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" /></a>
-    <a href="https://isocpp.org/"><img alt="C++" width="30px" src="https://i.imgur.com/Ao2P8iG.png" /></a>
-    <a href="https://www.qt.io/product/development-tools"><img alt="QT creator" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" /></a>
-    <a href="https://www.json.org/json-en.html"><img alt="JSON" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript ES6" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-    <a href="https://github.com/topics/sql"><img alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>
-    <a href="https://git-scm.com/"><img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
-    <a href="https://github.com/"><img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
-    <a href="https://github.com/topics/terminal"><img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-    <a href="https://www.heroku.com/"><img alt="Heroku" width="30px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" /></a>
-    <a href="https://cloudinary.com/"><img alt="cloudinary" width="30px" src="https://res.cloudinary.com/demo/image/upload/cloudinary_icon.png" /></a>
-    <a href="https://yarnpkg.com/"><img alt="Yarn" width="30px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png" /></a>
-    <a href="https://www.npmjs.com/"><img alt="NPM" width="30px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" /></a>
-    <a href="https://jquery.com/"><img alt="jQuery" width="30px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" /></a>
-</p>
+<span>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>  
+    <a href="https://ruby-doc.org/"><img alt="Ruby" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></a>  
+    <a href="https://rubyonrails.org/"><img alt="Ruby on Rails" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></a>  
+    <a href="https://www.python.org/"><img alt="Python" width="40px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" /></a>  
+    <a href="https://www.jetbrains.com/pt-br/pycharm/"><img alt="PyCharm" width="40px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" /></a>  
+    <a href="https://isocpp.org/"><img alt="C++" width="40px" src="https://i.imgur.com/Ao2P8iG.png" /></a>  
+    <a href="https://www.qt.io/product/development-tools"><img alt="QT creator" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" /></a>  
+    <a href="https://www.json.org/json-en.html"><img alt="JSON" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /></a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript ES6" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>  
+    <a href="https://github.com/topics/sql"><img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>  
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>  
+    <a href="https://git-scm.com/"><img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
+    <a href="https://github.com/"><img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>  
+    <a href="https://github.com/topics/terminal"><img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>  
+    <a href="https://www.heroku.com/"><img alt="Heroku" width="40px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" /></a>  
+    <a href="https://cloudinary.com/"><img alt="cloudinary" width="40px" src="https://res.cloudinary.com/demo/image/upload/cloudinary_icon.png" /></a>  
+    <a href="https://yarnpkg.com/"><img alt="Yarn" width="40px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png" /></a>  
+    <a href="https://www.npmjs.com/"><img alt="NPM" width="40px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" /></a>  
+    <a href="https://jquery.com/"><img alt="jQuery" width="40px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" /></a>  
+</span>
 
 <hr>
 <!--  GitHub Stats -->
