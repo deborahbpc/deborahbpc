@@ -64,9 +64,9 @@
     <a href="https://github.com/topics/terminal"><img alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>  
     <a href="https://www.heroku.com/"><img alt="Heroku" width="40px" height="40px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" /></a>  
     <a href="https://cloudinary.com/"><img alt="cloudinary" width="40px" height="40px" src="https://res.cloudinary.com/demo/image/upload/cloudinary_icon.png" /></a>  
-    <a href="https://yarnpkg.com/"><img alt="Yarn" width="40px" height="40px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png" /></a>  
-    <a href="https://www.npmjs.com/"><img alt="NPM" width="40px" height="40px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" /></a>  
-    <a href="https://jquery.com/"><img alt="jQuery" width="40px" height="40px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" /></a>  
+    <a href="https://yarnpkg.com/"><img alt="Yarn" width="50px" height="40px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png" /></a>  
+    <a href="https://www.npmjs.com/"><img alt="NPM" width="45px" height="40px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" /></a>  
+    <a href="https://jquery.com/"><img alt="jQuery" width="50px" height="40px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" /></a>  
 </span>
 
 <hr>
