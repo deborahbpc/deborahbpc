@@ -89,12 +89,19 @@
   <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com//anmol098/waka-readme-stats/issues/23) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-2. 💪 Opened PR [#126](https://github.com//rozasmarina/mkt-place/pull/126) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
-3. 🎉 Merged PR [#218](https://github.com//rozasmarina/Olivia/pull/218) in [rozasmarina/Olivia](https://github.com//rozasmarina/Olivia)
+1. ❗️ Opened issue [#413](https://github.com//JessicaLim8/JessicaLim8/issues/413) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+2. 🗣 Commented on [#23](https://github.com//anmol098/waka-readme-stats/issues/23) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+3. 💪 Opened PR [#126](https://github.com//rozasmarina/mkt-place/pull/126) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
 <!--END_SECTION:activity-->
 
 </details>
+
+
+<!--cat roar gi
+<img align="right" src="https://github.com/blackcater/blackcater/raw/master/images/banner.gif" width="200 " height="200" />
+-->
+<!-- octocat gif
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
 
 <!-- [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode] -->
 <!-- [<img align="left" alt="Ruby" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][ruby] -->
