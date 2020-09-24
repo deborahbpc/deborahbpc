@@ -71,8 +71,10 @@
 <br/>
 <hr>
 <!--  GitHub Stats -->
-<img align="center" alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
-<img align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" />
+<p align="center">
+    <img alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
+    <img alt="Deborah's GitHub most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" />
+</p>
 <hr>
 
 #### Some projects I've worked on while on Le Wagon:
