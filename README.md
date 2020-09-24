@@ -90,9 +90,6 @@
   <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
-2. 🗣 Commented on [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
-3. 🗣 Commented on [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
 <!--END_SECTION:activity-->
 
 </details>
