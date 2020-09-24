@@ -8,14 +8,16 @@
 </p>
 
 <p align="center">
+    <img alt="Built with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
+    <img alt="Uses git" src="http://ForTheBadge.com/images/badges/uses-git.svg" />
+</p>
+
+<p align="center">
     <a href="https://www.instagram.com/deborah_bpc/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/deborah.bpc-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="https://www.instagram.com/ummundosemfim/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/ummundosemfim-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
 <p>
 
-<p align="center">
-    <img alt="Built with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
-    <img alt="Uses git" src="http://ForTheBadge.com/images/badges/uses-git.svg" />
-</p>
+
 
 <table width="100%">
     <tr>
