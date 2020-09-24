@@ -90,9 +90,9 @@
   <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#414](https://github.com//JessicaLim8/JessicaLim8/issues/414) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-2. ❗️ Opened issue [#413](https://github.com//JessicaLim8/JessicaLim8/issues/413) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-3. 🗣 Commented on [#23](https://github.com//anmol098/waka-readme-stats/issues/23) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+1. 🗣 Commented on [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
+2. ❗️ Opened issue [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
+3. ❗️ Opened issue [#256](https://github.com//benjaminsampica/benjaminsampica/issues/256) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 </details>
