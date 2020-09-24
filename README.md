@@ -78,8 +78,13 @@
 </p>
 <hr>
 
-<!-- add code challenges card -->
+<h4 align="center">Some projects I've worked on while on Le Wagon: </h4>
 
+<p align="center">
+    <a href="https://github.com/deborahbpc/Code-challenges"><img alt="Code challenges" src="https://github-readme-stats.vercel.app/api/pin/?username=deborahbpc&repo=Code-challenges&theme=dark" /></a> 
+</p>
+
+<hr>
 <h4 align="center">Some projects I've worked on while on Le Wagon: </h4>
 
 [![Ollivia Card](https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia&theme=buefy)](https://github.com/rozasmarina/Olivia)
