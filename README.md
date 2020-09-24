@@ -3,12 +3,14 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/deborahbeatriz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white)" /></a></span>
-    <a href="mailto:deborah.bpc@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com" /></a></span>
-<span align="center">
+    <a href="mailto:deborah.bpc@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com" /></a>
+    <img alt="Gmail Badge" src="https://komarev.com/ghpvc/?username=sathyabhat&color=blue" />
 </p>
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/deborahbpc/)
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/deborahbpc/)
+<p align="center">
+    <img alt="Built with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
+    <img alt="Uses git" src="http://ForTheBadge.com/images/badges/uses-git.svg" />
+</p>
 
 <table width="100%">
     <tr>
