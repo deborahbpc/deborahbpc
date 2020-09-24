@@ -1,5 +1,5 @@
-<h1 align="center"> :octocat: Hello World, I'm <strong>Deborah</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h1 align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px" /> Hello World, I'm <strong>Deborah</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h3 align="center">A passionate full-stack developer from Brazil</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/deborahbeatriz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
@@ -95,9 +95,11 @@
   <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#413](https://github.com//JessicaLim8/JessicaLim8/issues/413) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-2. 🗣 Commented on [#23](https://github.com//anmol098/waka-readme-stats/issues/23) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-3. 💪 Opened PR [#126](https://github.com//rozasmarina/mkt-place/pull/126) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
+1. ❗️ Closed issue [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
+2. 🗣 Commented on [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
+3. 🗣 Commented on [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
+4. ❗️ Opened issue [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
+5. ❗️ Opened issue [#256](https://github.com//benjaminsampica/benjaminsampica/issues/256) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 </details>
