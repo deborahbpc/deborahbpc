@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/deborahbeatriz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
     <a href="mailto:deborah.bpc@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-deborah.bpc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborah.bpc@gmail.com" /></a>
     <img alt="Gmail Badge" src="https://komarev.com/ghpvc/?username=sathyabhat&color=blue" />
-    <a href="https://www.instagram.com/deborah_bpc/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/deborah.bpc-e95950.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/deborah_bpc/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/deborah_bpc-e95950.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="https://www.instagram.com/ummundosemfim/"><img alt="Instagram Badge 2" src="https://img.shields.io/badge/ummundosemfim-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
@@ -72,8 +72,8 @@
 <hr>
 <!--  GitHub Stats -->
 <p align="center">
-    <img alt="Deborah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
-    <img alt="Deborah's GitHub most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" />
+    <img alt="Deborah's GitHub Stats" src="https://github-readme-stats.deborahbpc.vercel.app/?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
+    <img alt="Deborah's GitHub most used languages" src="https://github-readme-stats.deborahbpc.vercel.app//api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" />
 </p>
 <hr>
 
