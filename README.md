@@ -97,11 +97,11 @@
   <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
-2. 🗣 Commented on [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
-3. 🗣 Commented on [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
-4. ❗️ Opened issue [#127](https://github.com//rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com//rozasmarina/mkt-place)
-5. ❗️ Opened issue [#256](https://github.com//benjaminsampica/benjaminsampica/issues/256) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
+1. ❗️ Closed issue [#127](https://github.com/rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com/rozasmarina/mkt-place)
+2. 🗣 Commented on [#127](https://github.com/rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com/rozasmarina/mkt-place)
+3. 🗣 Commented on [#127](https://github.com/rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com/rozasmarina/mkt-place)
+4. ❗️ Opened issue [#127](https://github.com/rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com/rozasmarina/mkt-place)
+5. ❗️ Opened issue [#256](https://github.com/benjaminsampica/benjaminsampica/issues/256) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 </details>
