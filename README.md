@@ -29,13 +29,12 @@
     <td width="50%">
         <ul>
             <br/>
+            <li>🌱 Currently working at Yuca as a backend software developer (working with Javascript, NodeJS, NestJS, PostgreSQL, AWS, Git, Github</li>
             <li>⚖️ I used to be a lawyer</li>
             <li>✈️ I'm a traveler in my free time and I love getting to know other cultures</li>
             <li>🤖 Full-Stack Developer</li>
             <li>📚 Bookworm</li>
             <li>⚡Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***</li>
-            <li>🌱 Always trying to learn something new (currently studying React)</li>
-            <li>🔛 Trying to contribute to Open Source projects</li>
             <li>🔊 PT-BR / EN</li>
         </ul>
     </td>
