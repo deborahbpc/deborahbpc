@@ -29,7 +29,7 @@
     <td width="50%">
         <ul>
             <br/>
-            <li>🌱 Currently working at Yuca as a backend software developer (working with Javascript, NodeJS, NestJS, PostgreSQL, AWS, Git, Github</li>
+            <li>🌱 Currently working at **[Yuca](https://www.yuca.live/)** as a backend software developer (working with Javascript, NodeJS, NestJS, PostgreSQL, AWS, Git, Github</li>
             <li>⚖️ I used to be a lawyer</li>
             <li>✈️ I'm a traveler in my free time and I love getting to know other cultures</li>
             <li>🤖 Full-Stack Developer</li>
