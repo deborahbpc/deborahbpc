@@ -29,20 +29,20 @@
     <td width="50%">
         <ul>
             <br/>
-            <li>🌱 Currently working at **[Yuca](https://www.yuca.live/)** as a backend software developer (working with Javascript, NodeJS, NestJS, PostgreSQL, AWS, Git, Github)</li>
-            <li>⚖️ I used to be a lawyer</li>
-            <li>✈️ I'm a traveler in my free time and I love getting to know other cultures</li>
-            <li>🤖 Full-Stack Developer</li>
-            <li>📚 Bookworm</li>
-            <li>⚡Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***</li>
-            <li>🔊 PT-BR / EN</li>
+            <li>🌱  Currently working at **[Yuca](https://www.yuca.live/)** as a backend software developer (working with Javascript, NodeJS, NestJS, PostgreSQL, AWS, Git, Github)</li>
+            <li>⚖️  I used to be a lawyer</li>
+            <li>✈️  I'm a traveler in my free time and I love getting to know other cultures</li>
+            <!--- <li>🤖  Full-Stack Developer</li> --->
+            <li>📚  Bookworm</li>
+            <li>⚡ Studied at ***[Le Wagon Coding Bootcamp](https://www.lewagon.com/)***</li>
+            <li>🔊  PT-BR / EN</li>
         </ul>
     </td>
 </table>
 
 
 
-
+<!---
 ### Languages and Tools:
 <span>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>  
@@ -68,43 +68,52 @@
     <a href="https://www.npmjs.com/"><img alt="NPM" width="45px" height="40px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" /></a>  
     <a href="https://jquery.com/"><img alt="jQuery" width="50px" height="40px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" /></a>  
 </span>
-
+---> 
 <hr>
 <!--  GitHub Stats -->
+
+<!--
 <p align="center">
     <img alt="Deborah's GitHub Stats" src="https://github-readme-stats.deborahbpc.vercel.app/api?username=deborahbpc&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
     <img alt="Deborah's GitHub most used languages" src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=deborahbpc&layout=compact&langs_count=8&theme=buefy" />
 </p>
 <hr>
-
+-->
+<!--
 <h4 align="center">Code challenges I've solved or I'm currently taking on: </h4>
-
+-->
+<!---
 <p align="center">
     <a href="https://github.com/deborahbpc/Code-challenges"><img alt="Code challenges" src="https://github-readme-stats.vercel.app/api/pin/?username=deborahbpc&repo=Code-challenges&theme=dark" /></a> 
 </p>
+--->
 
+<!---
 <h4 align="center">Some projects I've worked on while on Le Wagon: </h4>
-
+--->
+<!---
 <p align="center">
     <a href="https://github.com/rozasmarina/Olivia"><img alt="Ollivia Card" src="https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=Olivia&theme=buefy" /></a> <a href="https://github.com/rozasmarina/mkt-place"><img alt="Handmazing Card" src="https://github-readme-stats.vercel.app/api/pin/?username=rozasmarina&repo=mkt-place&theme=buefy" /></a>
 </p>
 <hr>
+--->
 
-
-
+<!---
 <details>
   <summary>:zap: Recent Activity</summary>
-
+--->
 <!--START_SECTION:activity-->
+<!---
 1. ❗️ Closed issue [#127](https://github.com/rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com/rozasmarina/mkt-place)
 2. 🗣 Commented on [#127](https://github.com/rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com/rozasmarina/mkt-place)
 3. 🗣 Commented on [#127](https://github.com/rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com/rozasmarina/mkt-place)
 4. ❗️ Opened issue [#127](https://github.com/rozasmarina/mkt-place/issues/127) in [rozasmarina/mkt-place](https://github.com/rozasmarina/mkt-place)
 5. ❗️ Opened issue [#256](https://github.com/benjaminsampica/benjaminsampica/issues/256) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+--->
 <!--END_SECTION:activity-->
-
+<!---
 </details>
-
+--->
 
 <!--cat roar gi
 <img align="right" src="https://github.com/blackcater/blackcater/raw/master/images/banner.gif" width="200 " height="200" />
