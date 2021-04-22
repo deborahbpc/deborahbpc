@@ -3,7 +3,9 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/deborahbeatriz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Deborah-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+    <!---
     <a href="https://mailhide.io/e/oJtDG"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Email%20reveal-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
+    --->
     <img alt="Visits" src="https://badges.pufler.dev/visits/deborahbpc/deborahbpc?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square" />
     <a href="https://www.instagram.com/deborah_bpc/"><img alt="Instagram Badge 1" src="https://img.shields.io/badge/deborah_bpc-e95950.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="https://www.instagram.com/ummundosemfim/"><img alt="Instagram Badge 2" src="https://img.shields.io/badge/ummundosemfim-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
